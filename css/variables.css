@@ -1,0 +1,13 @@
+:root{
+    --color-primary-1:#3C4CDB;
+    --color-primary-2:#7856FF;
+    --color-primary-3:#7856FF;
+    --color-primary-4:#232323;
+    --color-primary-5:#1E2648;
+    --color-primary-6:#636AF6;
+    --color-primary-7:#141C3D;
+    --color-primary-8:#404970;
+    --color-add-2:#BEADFF;
+    --color-gradient:linear-gradient(180deg, #3C4CDB 0%, #7856FF 100%);
+    --font-family: 'Inter', sans-serif;
+}
